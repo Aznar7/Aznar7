@@ -9,7 +9,8 @@
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) &nbsp; ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql) &nbsp; ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) &nbsp; ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) &nbsp; ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) &nbsp; ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 
 
-- Contact: &nbsp;  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:paulaznartequen@gmail.com)    
+- Contact: &nbsp;  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:paulaznartequen@gmail.com)  &nbsp;&nbsp; CV: &nbsp;  [<img src="https://cdn-icons-png.flaticon.com/512/10082/10082597.png" width="40" align="center">](https://www.canva.com/design/DAF-EJisThg/YNAaIMWPMakX41LxS_DbZg/view?utm_content=DAF-EJisThg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aznar7&show_icons=true&theme=radical)   &nbsp;&nbsp;    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aznar7&layout=compact&theme=radical)
