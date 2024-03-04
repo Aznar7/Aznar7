@@ -11,6 +11,7 @@
 
 - Contact: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aznatepaul@gmail.com) <- Click 
 
+
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aznar7&show_icons=true&theme=radical)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aznar7&layout=compact&theme=radical)
 
 
